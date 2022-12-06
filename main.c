@@ -27,6 +27,12 @@ int main() {
     // b = [2 2 2 3 3 3 3]
     // c = [3 4 5 4 5 4 5]
     // r = []
+
+    // 10 : 
+    // lim: a = 2 b = 3 c = 5
+    // a = [1 1 2]  
+    // b = [2 3 3]
+
     int i, j, k, res;
     long idx = 0;
     for (i = 1; i <= var_lim_a; i++){
